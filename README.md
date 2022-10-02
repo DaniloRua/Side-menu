@@ -3,7 +3,7 @@
 ![preview]
 
 >practicing:
-building a side animated menu that cames from de left side of the page.
+A side animated menu that comes from the left side of the page.
 
 ## tools
 -html 
